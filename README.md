@@ -1,4 +1,5 @@
 # Etsyclonekafka
+it is a clone of ecommerce website etsy 
 
 Teach Stack Used Mongodb,Express js,Reactjs,Nodejs
 Kafka,Redis
